@@ -1,7 +1,7 @@
 # amazon_scrapper
 
 
-Output columns are
+Output columns
 -------------------
 'Country', 'Currency', 'prod_mrp_price', 'prod_sale_price',
 'deal_of_the_day', 'deal_end_time', 'your_savings', 'emi_available',
