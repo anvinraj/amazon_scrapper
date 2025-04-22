@@ -1,5 +1,7 @@
 # amazon_scrapper
 
+📌 Please read the [Disclaimer](DISCLAIMER.md) before using this project.
+
 
 Output columns
 -------------------
